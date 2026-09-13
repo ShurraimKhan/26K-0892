@@ -15,3 +15,9 @@
 
 ## Projects
 - Command Prompt Lab Scripts
+  
+## Hobbies & Extracurriculars
+1. Competitive Typing
+   - [x] Reach 60 WPM
+   - [ ] Reach 80 WPM
+2. Digital Graphic Design
